@@ -89,3 +89,4 @@ In both cases the tasks below the failure report `UPSTREAM_FAILED`.
   `src/churn/checks.py` to the real data inside the run.
 
 ======
+Test E2
